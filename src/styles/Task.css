@@ -1,0 +1,33 @@
+.task-item {
+  padding: 10px;
+}
+
+.task-checkbox {
+  width: 30px;
+  height: 30px;
+}
+
+.task-text {
+  font-size: 20px;
+  margin: 0;
+}
+
+.task-item-label {
+  margin-left: 12px;
+}
+
+.edit-icon {
+  margin-left: 12px;
+}
+
+.trash-icon:hover {
+  color: red;
+}
+
+.edit-icon:hover {
+  color: blue;
+}
+
+.task-underline {
+  text-decoration: line-through;
+}
